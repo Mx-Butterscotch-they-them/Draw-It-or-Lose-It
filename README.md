@@ -15,5 +15,12 @@ Health Check
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
 
-# Software Design Template
+# Documents
+
+GameAuth UML Diagram
+---
+[UML Diagram](https://github.com/Mx-Butterscotch-they-them/Draw-It-or-Lose-It/blob/main/ProjectUML.jpg)
+
+Software Design Template
+---
 [Document](https://github.com/Mx-Butterscotch-they-them/Draw-It-or-Lose-It/blob/main/CS%20230%20Project%20Software%20Design%20Template%20(1).docx)
