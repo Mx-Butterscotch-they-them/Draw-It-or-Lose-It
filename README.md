@@ -19,7 +19,7 @@ To see your applications health enter url `http://localhost:8081/healthcheck`
 
 GameAuth UML Diagram
 ---
-![GameAuth UML Diagram](Draw-It-or-Lose-It/blob/main/ProjectUML.jpg "UML Diagram")
+![GameAuth UML Diagram](ProjectUML.jpg "UML Diagram")
 
 Software Design Template
 ---
