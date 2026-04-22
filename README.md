@@ -7,13 +7,15 @@ The Gaming Room is a gaming studio that wants to develop a web-based, multiplaye
 
 What did you do particularly well in developing this documentation? 
 ---
-I did quite well in: 
-    • Summarizing the purpose of the project, which involves the client’s goals.
-    • Explaining the organizational and technical requirements of The Gaming Room project.
-    • Identifying the design constraints, which include the software requirements, network latency, concurrency control, scalability, security, and cross-platform compatibility.
-    • Explaining the role of each class component of the domain model and connecting each OOP principle to what was present in the model.
-    • Evaluating the development requirements of Mac, Linux, Windows, and mobile devices based on the server-side, client-side, and development tools.
-    • Documented recommendations on the operating platform, operating systems architectures, logical architecture, data architecture, storage management, memory management, distributed systems and networks, and security.
+I did quite well in:
+<ul>
+    <li>Summarizing the purpose of the project, which involves the client’s goals.</li>
+    <li>Explaining the organizational and technical requirements of The Gaming Room project.</li>
+    <li>Identifying the design constraints, which include the software requirements, network latency, concurrency control, scalability, security, and cross-platform compatibility.</li>
+    <li>Explaining the role of each class component of the domain model and connecting each OOP principle to what was present in the model.</li>
+    <li>Evaluating the development requirements of Mac, Linux, Windows, and mobile devices based on the server-side, client-side, and development tools.</li>
+    <li>Documented recommendations on the operating platform, operating systems architectures, logical architecture, data architecture, storage management, memory management, distributed systems and networks, and security.</li>
+</ul>
       
 What about the process of working through a design document did you find helpful when developing the code?: 
 ---
