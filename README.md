@@ -3,6 +3,7 @@ A web-based game called "Draw It or Lose It" designed to be served on multiple p
 
 # Q/A Portfolio
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+---
 The Gaming Room is a gaming studio that wants to develop a web-based, multiplayer game that serves multiple platforms based on their current game called “Draw It or Lose It.” The target platforms are desktop browsers (Linux, Windows, macOS) and mobile browsers. The game app should have given a game the ability to have one or more teams involved, each team having multiple players assigned to it, game and team names must be unique, and only one instance of the game can exist in memory at any given time.
 
 What did you do particularly well in developing this documentation? 
